@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "928671508117",
+    "project_id": "pokedexexamapp",
+    "storage_bucket": "pokedexexamapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:928671508117:android:5b7f3fa6f6632053821d9c",
+        "android_client_info": {
+          "package_name": "com.pokedexexamapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "928671508117-v5tklp83tnduh38dlk0uei8vhpf1nr29.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtBF9OzJvL6aTuPdmVyJ6vJpX7fz0s-zQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "928671508117-ula9f3o6te27tossuk2gq55v5uk4m88v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
