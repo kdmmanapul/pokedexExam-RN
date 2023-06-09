@@ -99,9 +99,8 @@ export const TextInput = styled.TextInput`
   ${({ theme }) => css`
     width: 75%;
     height: 40px;
-    background-color: ${theme.colors.inputBackground};
+    background-color: ${theme.colors.background};
     border-width: 0.5px;
-    border-color: ${theme.colors.inputBorder};
     border-radius: 70px;
     padding: 8px;
     margin-bottom: 10px;
